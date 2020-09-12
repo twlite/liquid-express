@@ -1,0 +1,35 @@
+{
+  "name": "liquid-express",
+  "version": "1.0.0",
+  "description": "Liquid template engine for express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowflake107/liquid-express.git"
+  },
+  "keywords": [
+    "express",
+    "template",
+    "liquid",
+    "ejs",
+    "express-liquid",
+    "liquid-express",
+    "pug",
+    "jade",
+    "engine",
+    "view-engine"
+  ],
+  "author": "Snowflake107",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snowflake107/liquid-express/issues"
+  },
+  "homepage": "https://github.com/Snowflake107/liquid-express#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "liquid": "^5.0.0"
+  }
+}
